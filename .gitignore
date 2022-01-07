@@ -1,0 +1,4 @@
+.DS_store
+nlpenv/
+docs/build/
+docs/source/templates/
