@@ -27,6 +27,13 @@ Burada anlatılanlar istenen sonuçlara ulaşmanız için aktarılan bilgilerdir
 4. Stratejilerinizin hayatınızı etkilemesi
 5. **Cinsel hayatınızda yaşadığınız sorunlar**
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents
+
+   nlpcinsellik
+   yaratıcılık
+
 
   
 

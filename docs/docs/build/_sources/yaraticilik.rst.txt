@@ -27,7 +27,7 @@ Hazırlık
    :maxdepth: 2
    :caption: Contents:
 
-   
+   nlpcinsellik
 
 
 
